@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tgz
+coverage/
+.env
+docs/requirements.md
+docs/verification.md

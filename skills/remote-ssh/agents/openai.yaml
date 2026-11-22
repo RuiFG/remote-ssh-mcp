@@ -1,0 +1,3 @@
+interface:
+  display_name: "Remote SSH"
+  short_description: "Manage shared SSH hosts and remote files via MCP"
